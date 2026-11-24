@@ -1,0 +1,16 @@
+{
+  "pagesize": "5",
+  "shuangpin_enable": "true",
+  "shuangpin_scheme_name": "default/XiaoHe.ini",
+  "shuangpin_show_hint": "true",
+  "default.tradition": "false",
+  "default.fullshape": "false",
+  "encn": "cn",
+  "chinese_punctuation": "true",
+  "shortcut.key.disable_ime.shift": "true",
+  "shortcut.key.disable_ime.ctrl": "false",
+  "number_pad_halfshape": "true",
+  "pc_composition_wnd_follow_cursor": "true",
+  "intelligent_punctuation_after_numbers": "true",
+  "intelligent_punctuation_pairing": "false"
+}
