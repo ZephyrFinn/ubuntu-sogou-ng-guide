@@ -1,0 +1,122 @@
+{
+  "recorded_date": "2026-11-24",
+  "packages": [
+    {
+      "package": "com.sogou.ime.ng.fcitx5.kylin",
+      "version": "10.0.10.0-1418",
+      "architecture": "amd64",
+      "url": "http://repo.taotics.com/cross-platform-input-solution/pool/utils/s/sogou-ime-ng/com.sogou.ime.ng.fcitx5.kylin_10.0.10.0-1418_amd64.deb",
+      "sha256": "8dc176fdd8eee73e1a61d96ce7ae62241224df8e772ab59dc6b4cbc5e727201e",
+      "size": 14238,
+      "index_url": "http://repo.taotics.com/cross-platform-input-solution/dists/senbena-dailybuild/utils/binary-amd64/Packages.gz"
+    },
+    {
+      "package": "cpis-base",
+      "version": "10.0.10.0-2291-deb11u1",
+      "architecture": "amd64",
+      "url": "http://repo.taotics.com/cross-platform-input-solution/pool/utils/c/cpis/cpis-base_10.0.10.0-2291-deb11u1_amd64.deb",
+      "sha256": "a623a4cb1f25a0b02f1c3357fe334a9e23a6b0f4e7be8c3d92606f0907d1201e",
+      "size": 40704906,
+      "index_url": "http://repo.taotics.com/cross-platform-input-solution/dists/senbena-deb11u1/utils/binary-amd64/Packages.gz"
+    },
+    {
+      "package": "cpis-engine-plugin-libime-v3-common",
+      "version": "10.0.10.0-114",
+      "architecture": "all",
+      "url": "http://repo.taotics.com/cross-platform-input-solution/pool/utils/libi/libime-v3-cpis/cpis-engine-plugin-libime-v3-common_10.0.10.0-114_all.deb",
+      "sha256": "15c0557368288c90652c9434bfda02153c105cb55b58399ebf0f0a263ad605e1",
+      "size": 1918,
+      "index_url": "http://repo.taotics.com/cross-platform-input-solution/dists/senbena-dailybuild/utils/binary-amd64/Packages.gz"
+    },
+    {
+      "package": "cpis-engine-plugin-libime-v3-pinyin26",
+      "version": "10.0.10.0-114",
+      "architecture": "amd64",
+      "url": "http://repo.taotics.com/cross-platform-input-solution/pool/utils/libi/libime-v3-cpis/cpis-engine-plugin-libime-v3-pinyin26_10.0.10.0-114_amd64.deb",
+      "sha256": "cbc27d88c84af68129819fe6444fa69c3bea951aef7b1cf8daeb9b38b83742df",
+      "size": 2460396,
+      "index_url": "http://repo.taotics.com/cross-platform-input-solution/dists/senbena-dailybuild/utils/binary-amd64/Packages.gz"
+    },
+    {
+      "package": "cpis-engine-plugin-libime-v3-wubi",
+      "version": "10.0.10.0-114",
+      "architecture": "amd64",
+      "url": "http://repo.taotics.com/cross-platform-input-solution/pool/utils/libi/libime-v3-cpis/cpis-engine-plugin-libime-v3-wubi_10.0.10.0-114_amd64.deb",
+      "sha256": "e3cdbfef3260b86c152de20f1fa0dffdfe16687d7ed2afd2daf7d0792cd2f0f0",
+      "size": 2228796,
+      "index_url": "http://repo.taotics.com/cross-platform-input-solution/dists/senbena-dailybuild/utils/binary-amd64/Packages.gz"
+    },
+    {
+      "package": "sogou-ime-ng",
+      "version": "10.0.10.0-1418",
+      "architecture": "amd64",
+      "url": "http://repo.taotics.com/cross-platform-input-solution/pool/utils/s/sogou-ime-ng/sogou-ime-ng_10.0.10.0-1418_amd64.deb",
+      "sha256": "81e527f168b71aa70bbd22ade57a8f8f5d0290f562313a5a671409db7ab52fbc",
+      "size": 24445670,
+      "index_url": "http://repo.taotics.com/cross-platform-input-solution/dists/senbena-dailybuild/utils/binary-amd64/Packages.gz"
+    },
+    {
+      "package": "sogou-ime-ng-cpis-dict-handwriting-chinese",
+      "version": "10.0.2-3",
+      "architecture": "all",
+      "url": "http://repo.taotics.com/cross-platform-input-solution/pool/utils/s/sogou-ime-ng-data/sogou-ime-ng-cpis-dict-handwriting-chinese_10.0.2-3_all.deb",
+      "sha256": "b61119f4ee68664f1f6b97ced2cebd90a99ecb4bb5961d7867fbb764f3bcc9cc",
+      "size": 3792,
+      "index_url": "http://repo.taotics.com/cross-platform-input-solution/dists/senbena/utils/binary-amd64/Packages.gz"
+    },
+    {
+      "package": "sogou-ime-ng-cpis-dict-handwriting-chinese-dict",
+      "version": "10.0.2-3",
+      "architecture": "all",
+      "url": "http://repo.taotics.com/cross-platform-input-solution/pool/utils/s/sogou-ime-ng-data/sogou-ime-ng-cpis-dict-handwriting-chinese-dict_10.0.2-3_all.deb",
+      "sha256": "9a1f65df7586adef85ae4e0c7ad929a95f90c593ae8b3a54b69003c308e4e553",
+      "size": 3562284,
+      "index_url": "http://repo.taotics.com/cross-platform-input-solution/dists/senbena/utils/binary-amd64/Packages.gz"
+    },
+    {
+      "package": "sogou-ime-ng-cpis-dict-handwriting-common",
+      "version": "10.0.2-3",
+      "architecture": "all",
+      "url": "http://repo.taotics.com/cross-platform-input-solution/pool/utils/s/sogou-ime-ng-data/sogou-ime-ng-cpis-dict-handwriting-common_10.0.2-3_all.deb",
+      "sha256": "c74b4d0d15de5517ccfaa263bb5ecfe0e4e7246bf24a61634831db6b74f53ca6",
+      "size": 236832,
+      "index_url": "http://repo.taotics.com/cross-platform-input-solution/dists/senbena/utils/binary-amd64/Packages.gz"
+    },
+    {
+      "package": "sogou-ime-ng-cpis-dict-keyboard-chs-pcpy",
+      "version": "10.0.2-3",
+      "architecture": "all",
+      "url": "http://repo.taotics.com/cross-platform-input-solution/pool/utils/s/sogou-ime-ng-data/sogou-ime-ng-cpis-dict-keyboard-chs-pcpy_10.0.2-3_all.deb",
+      "sha256": "713d9393d93da797c82ce6d5031e805b7321492bdfbe8b8c553790b14598c1be",
+      "size": 15967408,
+      "index_url": "http://repo.taotics.com/cross-platform-input-solution/dists/senbena/utils/binary-amd64/Packages.gz"
+    },
+    {
+      "package": "sogou-ime-ng-cpis-dict-keyboard-chs-pcwb",
+      "version": "10.0.2-3",
+      "architecture": "all",
+      "url": "http://repo.taotics.com/cross-platform-input-solution/pool/utils/s/sogou-ime-ng-data/sogou-ime-ng-cpis-dict-keyboard-chs-pcwb_10.0.2-3_all.deb",
+      "sha256": "6b26f201af5cffff936a7c25e925de822c02d48c7f779edabe803a585b42b64c",
+      "size": 5290372,
+      "index_url": "http://repo.taotics.com/cross-platform-input-solution/dists/senbena/utils/binary-amd64/Packages.gz"
+    },
+    {
+      "package": "sogou-ime-ng-cpis-dict-keyboard-multilingual-pcen",
+      "version": "10.0.2-3",
+      "architecture": "all",
+      "url": "http://repo.taotics.com/cross-platform-input-solution/pool/utils/s/sogou-ime-ng-data/sogou-ime-ng-cpis-dict-keyboard-multilingual-pcen_10.0.2-3_all.deb",
+      "sha256": "f78451b45aac7a5cd81ec66f030a8b7626c773c48ad91c0170e21b8360d0eea0",
+      "size": 9735072,
+      "index_url": "http://repo.taotics.com/cross-platform-input-solution/dists/senbena/utils/binary-amd64/Packages.gz"
+    },
+    {
+      "package": "sogou-ime-ng-cpis-user-default-profile",
+      "version": "10.0.2-3",
+      "architecture": "all",
+      "url": "http://repo.taotics.com/cross-platform-input-solution/pool/utils/s/sogou-ime-ng-data/sogou-ime-ng-cpis-user-default-profile_10.0.2-3_all.deb",
+      "sha256": "bc9c869661de4246abfc411eedeed8cf22b38c483bc45eacc99bc0c19d17179c",
+      "size": 6400,
+      "index_url": "http://repo.taotics.com/cross-platform-input-solution/dists/senbena/utils/binary-amd64/Packages.gz"
+    }
+  ]
+}
